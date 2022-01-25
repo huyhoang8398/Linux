@@ -19,11 +19,27 @@ toc:
 
 ![Operating System War](meme.png)
 
+## OS Market Share
+
+![](os.jpg){ width=75% }
+
+## OS Super Computer 2015
+![Number of super computer systems by OS](super.png){ width=90% }
+
 # Linux
 
 ## Introduction
 
 ![Creator of Linux](torvald.jpg){ width=80% }
+
+## History: Unix Philosophy (1994)
+
+- Write programs that do one thing and do it well
+
+- Write programs to work together
+
+- Write programs to handle text streams, because that is a universal interface
+
 
 ## What?
 
@@ -55,3 +71,37 @@ toc:
 ![Alternative apps](alt.jpg){ width=55% }
 
 
+# Privacy
+
+## What is OpenSource?
+
+
+\begin{columns}
+
+\begin{column}{0.5\textwidth}
+\begin{itemize}
+
+\item Freely available for possible modification and redistribution
+\item Allow software to evolve via the contributions of many users
+\item The right to use software as they want
+\item Security
+\end{itemize}
+
+\end{column}
+
+\begin{column}{0.5\textwidth}
+\includegraphics[width=0.6\textwidth]{os.png}
+
+\end{column}
+
+\end{columns}
+
+
+## Privacy
+
+![User privacy](2.png){ width=85% }
+
+
+## 
+
+Thank you for listening!
